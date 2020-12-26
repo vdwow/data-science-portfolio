@@ -9,7 +9,7 @@ More professional informations [about me](linkedin.com/valentin.defour).
 
 ### Machine Learning
 
-|Problem|Description|Implementation|Dataset|
+| Problem | Description | Implementation | Dataset |
 
 ### Deep Learning
 
