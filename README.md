@@ -9,11 +9,11 @@ More professional informations [about me](linkedin.com/valentin.defour).
 
 ### Machine Learning
 
-| Problem | Description | Implementation | Dataset |
+| **Problem** | **Description** | **Implementation** | **Dataset** |
+| --- | --- | --- | --- |
+| Nepalese earthquake damages predition | Multi-class classification of damages caused by nepalese earthquake to buildings | [EDA, Feature Engineering, Hyper parameters tuning](https://github.com/vdwow/nepal-earthquake/blob/master/richter-predictor-nepalese-earthquake-damages.ipynb) | [data](https://www.kaggle.com/mullerismail/richters-predictor-modeling-earthquake-damage) |
 
 ### Deep Learning
-
-|
 
 ### DataViz
 
